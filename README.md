@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunnyboyCarrot
 - 👀 I’m interested in gaming and game development as well as modding
-- 🌱 I’m currently learning CSS, C++ and more
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate in mods
 - 📫 How to reach me ...
 E-Mail: TBA
